@@ -1,0 +1,16 @@
+{
+  "name": "craftastack",
+  "packageManager": "yarn@3.2.1",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/craftastack/craftastack.git"
+  },
+  "bugs": {
+    "url": "https://github.com/craftastack/craftastack/issues"
+  },
+  "homepage": "https://github.com/craftastack/craftastack#readme",
+  "devDependencies": {
+    "toppings-by-craftastack": "git+https://github.com/craftastack/toppings.git"
+  }
+}
